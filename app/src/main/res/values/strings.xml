@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Ft_hangouts</string>
+    <string name="action_settings">Change header color</string>
+    <string name="title_activity_create_user">CreateUser</string>
+
+    // Main
+
+    <string name="main_create">Create new User</string>
+
+    //  Create User
+
+    <string name="create_user_name">Name</string>
+    <string name="create_user_fname">First Name</string>
+    <string name="create_user_email">Email</string>
+    <string name="create_user_phone">Phone</string>
+    <string name="create_user_home">Home</string>
+    <string name="create_user_cancel">Cancel</string>
+    <string name="create_user_create">Create user</string>
+
+</resources>
